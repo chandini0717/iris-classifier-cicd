@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 irisvenv/
 __pycache__/
 *.pyc
 .env
 .vscode/
 .pytest_cache/
+=======
+__pycache__/
+*.pyc
+venv/
+.env
+>>>>>>> 23dc8e4c6428131b58f32313f6d0e1e6b46d52f6
